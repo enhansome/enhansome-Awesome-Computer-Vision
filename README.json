@@ -1,23 +1,7 @@
 {
-  "items": [
-    {
-      "description": "[1] Conditional Content Generation: awesome-conditional-content-generation",
-      "items": [],
-      "title": "Highlighted Topics"
-    },
-    {
-      "description": "[1] Motion Prediction: awesome-3d-human-motion-prediction\n[2] 3D-Human-Reconstruction: awesome-3d-human-reconstruction\n[3] Virtual-Try-On: A Curated List of Awesome Virtual Try-on\n[4] Talking Face: awesome_talking_face_generation\n[5] Sketch Generation: Awesome-Sketch-Synthesis\n[6] Diffusion: Awesome-Diffusion-Models\n[7] NeRF: awesome-NeRF\n[8] CLIP: Awesome-CLIP",
-      "items": [],
-      "title": "Hot Topics"
-    },
-    {
-      "description": "[1] Graph Neural Network: GNN, GNN, Graph Classification, Adversarial GNN, Deep GNN\n[2] Video Analysis: Action Recognition, Temporal Action Detection, Temporal Action Localization\n[3] Adversarial Attack: Adversarial Attack, Adversarial Learning, Robust ML, Graph Attack\n[4] 3D Vision: Point Cloud, 3D Reconstruction\n[5] AutoML: AutoML, Network Pruning, Network Compression, NAS\n[6] Reinforcement Learning: RL, RL, Multiagent RL\n[7] Transfer Learning: Transfer Learning, Zero Shot, Meta Learning\n[8] GAN: GAN, GAN Applications\n[9] Object Detection: Detection, Detection\n[10] Object Tracking: Multiple Object Tracking, Tracking\n[11] Pose Estimation: Human Pose Estimation, Hand Pose Estimation\n[12] Segmentation: Semantic Segmentation\n[13] Classification: Image Classification\n[14] Vision-Language Navigation: Vision-Language Navigation, Self-Supervised Learning\n[15] Super Resolution: Super Resolution\n[16] Denoising: Image Denoising\n[17] Anomaly Detection: Anomaly Detection\n[18] Interpretability: Interpretability\n[19] Trajectory Prediction: Trajectory-Prediction, Interaction Aware Trajectory Prediction\n[20] OCR: image-text-localization-recognition, awesome-ocr\n[21] Transformer is all you need: Awesome Visual-Transformer, BERT, Transformer-in-Vision\n[22] MLP is all you need: awesome-mlp-papers\n[23] Vision Language Pre-training: awesome-pretrained-chinese-nlp-models, awesome-vision-language-pretraining-papers, awesome-programming-language-pretraining-papers, PyContrast, contrastive_learning_codes\n[24] Prompt: PromptPapers\n[25] MIM: Masked Image Modeling\n[21] Crowd Counting: Awesome-Crowd-Counting\n[22] Video Analysis: Temporal Action Localization, Mulitple Object Tracking, Person ReID, Video Person ReID\n[23] Visual Reasoning: Visual Reasoning\n[24] Visual Grounding: Visual Grounding\n[25] Video Inpainting: Awesome-Image-Inpainting",
-      "items": [],
-      "title": "Awesome Computer Vision"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T10:49:24.343Z",
+    "last_updated": "2026-08-19T10:48:57.495Z",
     "original_repository": "haofanwang/Awesome-Computer-Vision",
     "original_repository_sha": "b1391be5412195001b49ea4cd3e9259cfb8c74b3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Computer-Vision",
