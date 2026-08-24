@@ -1,7 +1,170 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "[1] Motion Prediction: awesome-3d-human-motion-prediction\n[2] 3D-Human-Reconstruction: awesome-3d-human-reconstruction\n[3] Virtual-Try-On: A Curated List of Awesome Virtual Try-on\n[4] Talking Face: awesome_talking_face_generation\n[5] Sketch Generation: Awesome-Sketch-Synthesis",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[6] Diffusion: Awesome-Diffusion-Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 407722319,
+            "language": "HTML",
+            "last_commit": "2024-08-01T07:11:20Z",
+            "owner": "diff-usion",
+            "repo": "Awesome-Diffusion-Models",
+            "stars": 12363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[7] NeRF: awesome-NeRF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 316280031,
+            "language": "TeX",
+            "last_commit": "2025-01-06T11:03:37Z",
+            "owner": "awesome-NeRF",
+            "repo": "awesome-NeRF",
+            "stars": 6775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8] CLIP: Awesome-CLIP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 403191234,
+            "language": null,
+            "last_commit": "2024-06-28T09:40:56Z",
+            "owner": "yzhuoning",
+            "repo": "Awesome-CLIP",
+            "stars": 1227
+          }
+        }
+      ],
+      "title": "Hot Topics"
+    },
+    {
+      "description": "[1] Graph Neural Network: GNN, GNN, Graph Classification, Adversarial GNN, Deep GNN\n[2] Video Analysis: Action Recognition, Temporal Action Detection, Temporal Action Localization\n[3] Adversarial Attack: Adversarial Attack, Adversarial Learning, Robust ML, Graph Attack\n[6] Reinforcement Learning: RL, RL, Multiagent RL\n[7] Transfer Learning: Transfer Learning, Zero Shot, Meta Learning\n[9] Object Detection: Detection, Detection\n[10] Object Tracking: Multiple Object Tracking, Tracking\n[11] Pose Estimation: Human Pose Estimation, Hand Pose Estimation\n[12] Segmentation: Semantic Segmentation\n[13] Classification: Image Classification\n[14] Vision-Language Navigation: Vision-Language Navigation, Self-Supervised Learning\n[15] Super Resolution: Super Resolution\n[17] Anomaly Detection: Anomaly Detection\n[18] Interpretability: Interpretability\n[19] Trajectory Prediction: Trajectory-Prediction, Interaction Aware Trajectory Prediction\n[21] Transformer is all you need: Awesome Visual-Transformer, BERT, Transformer-in-Vision\n[22] MLP is all you need: awesome-mlp-papers\n[23] Vision Language Pre-training: awesome-pretrained-chinese-nlp-models, awesome-vision-language-pretraining-papers, awesome-programming-language-pretraining-papers, PyContrast, contrastive_learning_codes\n[21] Crowd Counting: Awesome-Crowd-Counting\n[22] Video Analysis: Temporal Action Localization, Mulitple Object Tracking, Person ReID, Video Person ReID\n[23] Visual Reasoning: Visual Reasoning\n[24] Visual Grounding: Visual Grounding\n[25] Video Inpainting: Awesome-Image-Inpainting",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[4] 3D Vision: Point Cloud",
+          "description": ", 3D Reconstruction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183274427,
+            "language": null,
+            "last_commit": "2023-05-19T04:34:48Z",
+            "owner": "Yochengliu",
+            "repo": "awesome-point-cloud-analysis",
+            "stars": 4218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[5] AutoML: AutoML",
+          "description": ", Network Pruning, Network Compression, NAS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111381431,
+            "language": null,
+            "last_commit": "2024-06-11T16:51:05Z",
+            "owner": "hibayesian",
+            "repo": "awesome-automl-papers",
+            "stars": 4153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8] GAN: GAN",
+          "description": ", GAN Applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87085729,
+            "language": null,
+            "last_commit": "2025-08-24T07:57:51Z",
+            "owner": "nightrome",
+            "repo": "really-awesome-gan",
+            "stars": 3773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[16] Denoising: Image Denoising",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115824925,
+            "language": null,
+            "last_commit": "2021-12-05T04:47:48Z",
+            "owner": "wenbihan",
+            "repo": "reproducible-image-denoising-state-of-the-art",
+            "stars": 2516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[20] OCR: image-text-localization-recognition",
+          "description": ", awesome-ocr",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 81423389,
+            "language": null,
+            "last_commit": "2023-09-17T13:41:49Z",
+            "owner": "whitelok",
+            "repo": "image-text-localization-recognition",
+            "stars": 958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[24] Prompt: PromptPapers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 374048245,
+            "language": null,
+            "last_commit": "2023-07-17T09:54:36Z",
+            "owner": "thunlp",
+            "repo": "PromptPapers",
+            "stars": 4327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[25] MIM: Masked Image Modeling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 456432863,
+            "language": null,
+            "last_commit": "2024-12-03T12:51:24Z",
+            "owner": "ucasligang",
+            "repo": "awesome-MIM",
+            "stars": 333
+          }
+        }
+      ],
+      "title": "Awesome Computer Vision"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:56:20.785Z",
+    "last_updated": "2026-08-24T14:31:16.701Z",
     "original_repository": "haofanwang/Awesome-Computer-Vision",
     "original_repository_id": 199790606,
     "original_repository_sha": "b1391be5412195001b49ea4cd3e9259cfb8c74b3",
