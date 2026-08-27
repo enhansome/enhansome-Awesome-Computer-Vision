@@ -164,9 +164,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:53:36.322Z",
-    "original_repository": "haofanwang/Awesome-Computer-Vision",
-    "original_repository_id": 199790606,
+    "last_updated": "2026-08-27T11:22:58.324Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 199790606,
+      "language": null,
+      "last_commit": "2023-01-05T16:29:12Z",
+      "owner": "haofanwang",
+      "repo": "Awesome-Computer-Vision",
+      "stars": 249
+    },
     "original_repository_sha": "b1391be5412195001b49ea4cd3e9259cfb8c74b3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Computer-Vision",
     "enhanced_repository_description": null,
