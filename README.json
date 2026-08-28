@@ -15,8 +15,9 @@
             "last_commit": "2024-08-01T07:11:20Z",
             "owner": "diff-usion",
             "repo": "Awesome-Diffusion-Models",
-            "stars": 12364
-          }
+            "stars": 12365
+          },
+          "first_seen": "2026-08-28T21:11:33.138Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
             "stars": 6775
-          }
+          },
+          "first_seen": "2026-08-28T21:11:33.138Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "yzhuoning",
             "repo": "Awesome-CLIP",
             "stars": 1227
-          }
+          },
+          "first_seen": "2026-08-28T21:11:33.138Z"
         }
       ],
       "title": "Hot Topics"
@@ -67,7 +70,8 @@
             "owner": "Yochengliu",
             "repo": "awesome-point-cloud-analysis",
             "stars": 4219
-          }
+          },
+          "first_seen": "2026-08-28T21:11:33.138Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
             "stars": 4154
-          }
+          },
+          "first_seen": "2026-08-28T21:11:33.138Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "nightrome",
             "repo": "really-awesome-gan",
             "stars": 3773
-          }
+          },
+          "first_seen": "2026-08-28T21:11:33.138Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "wenbihan",
             "repo": "reproducible-image-denoising-state-of-the-art",
             "stars": 2516
-          }
+          },
+          "first_seen": "2026-08-28T21:11:33.138Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "whitelok",
             "repo": "image-text-localization-recognition",
             "stars": 958
-          }
+          },
+          "first_seen": "2026-08-28T21:11:33.138Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "thunlp",
             "repo": "PromptPapers",
             "stars": 4326
-          }
+          },
+          "first_seen": "2026-08-28T21:11:33.138Z"
         },
         {
           "node_type": "item",
@@ -157,14 +166,15 @@
             "owner": "ucasligang",
             "repo": "awesome-MIM",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T21:11:33.138Z"
         }
       ],
       "title": "Awesome Computer Vision"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:34:01.377Z",
+    "last_updated": "2026-08-28T21:11:33.138Z",
     "original_repository_info": {
       "archived": false,
       "id": 199790606,
