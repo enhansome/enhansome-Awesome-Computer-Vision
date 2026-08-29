@@ -34,13 +34,13 @@
 
 *\[5] AutoML*: [AutoML](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,154 | 🐛 2 | 📅 2024-06-11, [Network Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04, [Network Compression](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 3 | 📅 2021-06-19, [NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,342 | 🐛 2 | 🌐 Python | 📅 2022-09-26
 
-*\[6] Reinforcement Learning*: [RL](https://github.com/aikorea/awesome-rl) ⭐ 9,924 | 🐛 7 | 📅 2023-05-25, [RL](https://github.com/jgvictores/awesome-deep-reinforcement-learning) ⭐ 206 | 🐛 2 | 📅 2026-08-25, [Multiagent RL](https://github.com/chuangyc/awesome-multiagent-learning) ⭐ 79 | 🐛 0 | 📅 2019-08-15
+*\[6] Reinforcement Learning*: [RL](https://github.com/aikorea/awesome-rl) ⭐ 9,926 | 🐛 7 | 📅 2023-05-25, [RL](https://github.com/jgvictores/awesome-deep-reinforcement-learning) ⭐ 206 | 🐛 2 | 📅 2026-08-25, [Multiagent RL](https://github.com/chuangyc/awesome-multiagent-learning) ⭐ 79 | 🐛 0 | 📅 2019-08-15
 
 *\[7] Transfer Learning*: [Transfer Learning](https://github.com/artix41/awesome-transfer-learning) ⭐ 1,776 | 🐛 8 | 📅 2023-08-25, [Zero Shot](https://github.com/chichilicious/awesome-zero-shot-learning) ⭐ 935 | 🐛 7 | 📅 2021-07-28, [Meta Learning](https://github.com/dragen1860/awesome-meta-learning) ⭐ 553 | 🐛 2 | 📅 2020-12-21
 
 *\[8] GAN*: [GAN](https://github.com/nightrome/really-awesome-gan) ⭐ 3,773 | 🐛 1 | 📅 2025-08-24, [GAN Applications](https://github.com/nashory/gans-awesome-applications) ⭐ 5,102 | 🐛 20 | 📅 2026-06-08
 
-*\[9] Object Detection*: [Detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,385 | 🐛 5 | 🌐 Python | 📅 2024-02-12, [Detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,506 | 🐛 7 | 📅 2022-12-17
+*\[9] Object Detection*: [Detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,384 | 🐛 5 | 🌐 Python | 📅 2024-02-12, [Detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,505 | 🐛 7 | 📅 2022-12-17
 
 *\[10] Object Tracking*: [Multiple Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-listn), [Tracking](https://github.com/foolwood/benchmark_results) ⭐ 3,944 | 🐛 17 | 📅 2020-07-20
 
@@ -76,7 +76,7 @@
 
 *\[21] Crowd Counting*: [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting) ⭐ 2,611 | 🐛 17 | 📅 2026-01-24
 
-*\[22] Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) ⭐ 588 | 🐛 1 | 📅 2022-09-22, [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,483 | 🐛 5 | 📅 2025-10-07, [Person ReID](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,362 | 🐛 2 | 📅 2024-06-18, [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid) ⭐ 316 | 🐛 1 | 📅 2025-04-21
+*\[22] Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) ⭐ 588 | 🐛 1 | 📅 2022-09-22, [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,483 | 🐛 4 | 📅 2026-08-29, [Person ReID](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,362 | 🐛 2 | 📅 2024-06-18, [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid) ⭐ 316 | 🐛 1 | 📅 2025-04-21
 
 *\[23] Visual Reasoning*: [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering) ⭐ 673 | 🐛 4 | 📅 2023-07-06
 
