@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A collection of resources and papers on Diffusion Models",
+            "homepage": "https://diff-usion.github.io/Awesome-Diffusion-Models/",
             "id": 407722319,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-08-01T07:11:20Z",
+            "open_issues": 27,
             "owner": "diff-usion",
             "repo": "Awesome-Diffusion-Models",
-            "stars": 12365
+            "stars": 12365,
+            "topics": [
+              "artificial-intelligence",
+              "diffusion-models",
+              "generative-model",
+              "machine-learning",
+              "score-based",
+              "score-matching"
+            ]
           },
           "first_seen": "2026-08-28T21:11:33.138Z"
         },
@@ -26,12 +38,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome neural radiance fields papers",
+            "homepage": null,
             "id": 316280031,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-01-06T11:03:37Z",
+            "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6774,
+            "topics": [
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-28T21:11:33.138Z"
         },
@@ -42,12 +61,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list for research on CLIP (Contrastive Language-Image Pre-Training).",
+            "homepage": null,
             "id": 403191234,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-28T09:40:56Z",
+            "open_issues": 15,
             "owner": "yzhuoning",
             "repo": "Awesome-CLIP",
-            "stars": 1227
+            "stars": 1227,
+            "topics": [
+              "clip",
+              "contrastive-learning",
+              "pre-training"
+            ]
           },
           "first_seen": "2026-08-28T21:11:33.138Z"
         }
@@ -64,12 +92,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of papers and datasets about point cloud analysis (processing)",
+            "homepage": null,
             "id": 183274427,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-19T04:34:48Z",
+            "open_issues": 3,
             "owner": "Yochengliu",
             "repo": "awesome-point-cloud-analysis",
-            "stars": 4219
+            "stars": 4219,
+            "topics": [
+              "3d-graphics",
+              "3d-reconstruction",
+              "3d-registration",
+              "3d-representation",
+              "point-cloud-classification",
+              "point-cloud-dataset",
+              "point-cloud-detection",
+              "point-cloud-processing",
+              "point-cloud-recognition",
+              "point-cloud-registration",
+              "point-cloud-segmentation",
+              "point-clouds",
+              "point-set-registration"
+            ]
           },
           "first_seen": "2026-08-28T21:11:33.138Z"
         },
@@ -80,12 +127,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
+            "homepage": null,
             "id": 111381431,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-06-11T16:51:05Z",
+            "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4154
+            "stars": 4154,
+            "topics": [
+              "automated-feature-engineering",
+              "automl",
+              "hyperparameter-optimization",
+              "neural-architecture-search"
+            ]
           },
           "first_seen": "2026-08-28T21:11:33.138Z"
         },
@@ -96,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of papers on Generative Adversarial (Neural) Networks",
+            "homepage": null,
             "id": 87085729,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-24T07:57:51Z",
+            "open_issues": 1,
             "owner": "nightrome",
             "repo": "really-awesome-gan",
-            "stars": 3773
+            "stars": 3773,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:33.138Z"
         },
@@ -112,12 +174,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of popular and reproducible image denoising works.",
+            "homepage": null,
             "id": 115824925,
             "language": null,
+            "license": null,
             "last_commit": "2021-12-05T04:47:48Z",
+            "open_issues": 4,
             "owner": "wenbihan",
             "repo": "reproducible-image-denoising-state-of-the-art",
-            "stars": 2516
+            "stars": 2516,
+            "topics": [
+              "art",
+              "arxiv",
+              "benchmarking",
+              "cnn",
+              "curated-list",
+              "deep-learning",
+              "denoising-algorithms",
+              "image-denoising",
+              "image-processing",
+              "image-reconstruction",
+              "image-restoration",
+              "implementation",
+              "inverse-problems",
+              "noise",
+              "noise-reduction",
+              "performance-analysis",
+              "recovery-image",
+              "reproducible-research",
+              "state-of-the-art",
+              "summary"
+            ]
           },
           "first_seen": "2026-08-28T21:11:33.138Z"
         },
@@ -128,12 +216,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A general list of resources to image text localization and recognition  场景文本位置感知与识别的论文资源与实现合集 シーンテキストの位置認識と識別のための論文リソースの要約",
+            "homepage": null,
             "id": 81423389,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-17T13:41:49Z",
+            "open_issues": 0,
             "owner": "whitelok",
             "repo": "image-text-localization-recognition",
-            "stars": 958
+            "stars": 958,
+            "topics": [
+              "awesome",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "deep-learning-algorithms",
+              "machine-learning",
+              "ocr",
+              "scene-texts",
+              "text-detection",
+              "text-extraction",
+              "text-recognition"
+            ]
           },
           "first_seen": "2026-08-28T21:11:33.138Z"
         },
@@ -144,12 +248,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Must-read papers on prompt-based tuning for pre-trained language models.",
+            "homepage": null,
             "id": 374048245,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-17T09:54:36Z",
+            "open_issues": 6,
             "owner": "thunlp",
             "repo": "PromptPapers",
-            "stars": 4326
+            "stars": 4326,
+            "topics": [
+              "ai",
+              "bert",
+              "machine-learning",
+              "nlp",
+              "pre-trained-language-models",
+              "prompt",
+              "prompt-based",
+              "prompt-learning",
+              "prompt-toolkit"
+            ]
           },
           "first_seen": "2026-08-28T21:11:33.138Z"
         },
@@ -160,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reading list for research topics in Masked Image Modeling",
+            "homepage": null,
             "id": 456432863,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-03T12:51:24Z",
+            "open_issues": 0,
             "owner": "ucasligang",
             "repo": "awesome-MIM",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:33.138Z"
         }
@@ -174,15 +298,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:11:33.138Z",
+    "last_updated": "2026-08-29T04:47:53.467Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Resources for Advanced Computer Vision Topics",
+      "homepage": null,
       "id": 199790606,
       "language": null,
+      "license": null,
       "last_commit": "2023-01-05T16:29:12Z",
+      "open_issues": 0,
       "owner": "haofanwang",
       "repo": "Awesome-Computer-Vision",
-      "stars": 249
+      "stars": 249,
+      "topics": [
+        "3d-vision",
+        "adversarial-attacks",
+        "automl",
+        "awesome-list",
+        "computer-vision",
+        "deep-learning",
+        "denoising",
+        "gan",
+        "graph-neural-network",
+        "interpretability",
+        "object-detection",
+        "paper",
+        "pose-estimation",
+        "super-resolution",
+        "trajectory-prediction",
+        "transfer-learning",
+        "video-analysis",
+        "vision-and-language",
+        "vision-project"
+      ]
     },
     "original_repository_sha": "b1391be5412195001b49ea4cd3e9259cfb8c74b3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Computer-Vision",
