@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776,
+            "stars": 6775,
             "topics": [
               "nerf"
             ]
@@ -136,7 +136,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4156,
+            "stars": 4155,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -298,7 +298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:23:49.938Z",
+    "last_updated": "2026-09-05T13:28:10.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Resources for Advanced Computer Vision Topics",
