@@ -16,7 +16,7 @@
 
 *\[5] Sketch Generation*: [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) ⭐ 579 | 🐛 1 | 📅 2026-08-30
 
-*\[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ⭐ 12,365 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
+*\[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ⭐ 12,368 | 🐛 27 | 🌐 HTML | 📅 2024-08-01
 
 *\[7] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) ⭐ 6,775 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 
@@ -24,13 +24,13 @@
 
 ## Awesome Computer Vision
 
-*\[1] Graph Neural Network*: [GNN](https://github.com/thunlp/GNNPapers) ⭐ 16,837 | 🐛 15 | 📅 2023-12-20, [GNN](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) ⭐ 2,310 | 🐛 7 | 📅 2023-12-29, [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,801 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [Adversarial GNN](https://github.com/safe-graph/graph-adversarial-learning-literature) ⭐ 861 | 🐛 0 | 📅 2023-12-15, [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn) ⭐ 295 | 🐛 0 | 📅 2023-03-29
+*\[1] Graph Neural Network*: [GNN](https://github.com/thunlp/GNNPapers) ⭐ 16,836 | 🐛 15 | 📅 2023-12-20, [GNN](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) ⭐ 2,311 | 🐛 7 | 📅 2023-12-29, [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,801 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [Adversarial GNN](https://github.com/safe-graph/graph-adversarial-learning-literature) ⭐ 861 | 🐛 0 | 📅 2023-12-15, [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn) ⭐ 295 | 🐛 0 | 📅 2023-03-29
 
 *\[2] Video Analysis*: [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,016 | 🐛 1 | 📅 2023-05-13, [Temporal Action Detection](https://github.com/Rheelt/Materials-Temporal-Action-Detection) ⭐ 201 | 🐛 3 | 📅 2021-01-10, [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) ⭐ 588 | 🐛 1 | 📅 2022-09-22
 
 *\[3] Adversarial Attack*: [Adversarial Attack](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html), [Adversarial Learning](https://github.com/nebula-beta/awesome-adversarial-deep-learning) ⭐ 132 | 🐛 2 | 📅 2023-01-07, [Robust ML](https://github.com/P2333/Papers-of-Robust-ML) ⭐ 562 | 🐛 0 | 📅 2023-05-25, [Graph Attack](https://github.com/ChandlerBang/awesome-graph-attack-papers) ⭐ 395 | 🐛 3 | 📅 2024-02-22
 
-*\[4] 3D Vision*: [Point Cloud](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,222 | 🐛 3 | 📅 2023-05-19, [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,419 | 🐛 6 | 📅 2021-10-12
+*\[4] 3D Vision*: [Point Cloud](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,223 | 🐛 3 | 📅 2023-05-19, [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,419 | 🐛 6 | 📅 2021-10-12
 
 *\[5] AutoML*: [AutoML](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,155 | 🐛 2 | 📅 2024-06-11, [Network Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,498 | 🐛 16 | 📅 2024-04-04, [Network Compression](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 3 | 📅 2021-06-19, [NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,342 | 🐛 2 | 🌐 Python | 📅 2022-09-26
 
@@ -46,7 +46,7 @@
 
 *\[11] Pose Estimation*: [Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation) ⭐ 1,373 | 🐛 6 | 📅 2020-08-07, [Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) ⭐ 3,392 | 🐛 6 | 🌐 Python | 📅 2026-06-28
 
-*\[12] Segmentation*: [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,845 | 🐛 17 | 📅 2021-05-08
+*\[12] Segmentation*: [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,846 | 🐛 17 | 📅 2021-05-08
 
 *\[13] Classification*: [Image Classification](https://github.com/weiaicunzai/awesome-image-classification) ⭐ 3,063 | 🐛 1 | 📅 2022-04-20
 
@@ -82,8 +82,8 @@
 
 *\[24] Visual Grounding*: [Visual Grounding](https://github.com/TheShadow29/awesome-grounding) ⭐ 1,127 | 🐛 3 | 📅 2025-09-21
 
-*\[25] Video Inpainting*: [Awesome-Image-Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting) ⭐ 2,180 | 🐛 6 | 🌐 Python | 📅 2026-02-09
+*\[25] Video Inpainting*: [Awesome-Image-Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting) ⭐ 2,181 | 🐛 6 | 🌐 Python | 📅 2026-02-09
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
