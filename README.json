@@ -19,7 +19,7 @@
             "open_issues": 27,
             "owner": "diff-usion",
             "repo": "Awesome-Diffusion-Models",
-            "stars": 12369,
+            "stars": 12368,
             "topics": [
               "artificial-intelligence",
               "diffusion-models",
@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776,
+            "stars": 6775,
             "topics": [
               "nerf"
             ]
@@ -101,7 +101,7 @@
             "open_issues": 3,
             "owner": "Yochengliu",
             "repo": "awesome-point-cloud-analysis",
-            "stars": 4223,
+            "stars": 4222,
             "topics": [
               "3d-graphics",
               "3d-reconstruction",
@@ -298,7 +298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:53:56.415Z",
+    "last_updated": "2026-09-08T14:36:20.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Resources for Advanced Computer Vision Topics",
