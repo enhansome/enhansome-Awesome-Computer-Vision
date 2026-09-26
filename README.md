@@ -2,7 +2,7 @@
 
 ## Highlighted Topics
 
-*\[1] Conditional Content Generation*: [awesome-conditional-content-generation](https://github.com/haofanwang/awesome-conditional-content-generation/) ⭐ 283 | 🐛 2 | 📅 2024-07-26
+*\[1] Conditional Content Generation*: [awesome-conditional-content-generation](https://github.com/haofanwang/awesome-conditional-content-generation/) ⭐ 284 | 🐛 2 | 📅 2024-07-26
 
 ## Hot Topics
 
@@ -10,17 +10,17 @@
 
 *\[2] 3D-Human-Reconstruction*: [awesome-3d-human-reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction) ⭐ 948 | 🐛 0 | 📅 2024-07-11
 
-*\[3] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,184 | 🐛 6 | 📅 2026-09-11
+*\[3] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,185 | 🐛 6 | 📅 2026-09-11
 
 *\[4] Talking Face*: [awesome\_talking\_face\_generation](https://github.com/YunjinPark/awesome_talking_face_generation) ⭐ 837 | 🐛 1 | 📅 2025-11-19
 
 *\[5] Sketch Generation*: [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) ⭐ 581 | 🐛 1 | 📅 2026-09-21
 
-*\[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ⭐ 12,372 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
+*\[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ⭐ 12,373 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
 
 *\[7] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) ⭐ 6,773 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 
-*\[8] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) ⭐ 1,227 | 🐛 15 | 📅 2024-06-28
+*\[8] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) ⭐ 1,228 | 🐛 15 | 📅 2024-06-28
 
 ## Awesome Computer Vision
 
@@ -30,11 +30,11 @@
 
 *\[3] Adversarial Attack*: [Adversarial Attack](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html), [Adversarial Learning](https://github.com/nebula-beta/awesome-adversarial-deep-learning) ⭐ 132 | 🐛 2 | 📅 2023-01-07, [Robust ML](https://github.com/P2333/Papers-of-Robust-ML) ⭐ 562 | 🐛 0 | 📅 2023-05-25, [Graph Attack](https://github.com/ChandlerBang/awesome-graph-attack-papers) ⭐ 395 | 🐛 3 | 📅 2024-02-22
 
-*\[4] 3D Vision*: [Point Cloud](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,223 | 🐛 3 | 📅 2023-05-19, [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,425 | 🐛 6 | 📅 2021-10-12
+*\[4] 3D Vision*: [Point Cloud](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,224 | 🐛 3 | 📅 2023-05-19, [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,425 | 🐛 6 | 📅 2021-10-12
 
 *\[5] AutoML*: [AutoML](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,159 | 🐛 2 | 📅 2024-06-11, [Network Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04, [Network Compression](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 3 | 📅 2021-06-19, [NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26
 
-*\[6] Reinforcement Learning*: [RL](https://github.com/aikorea/awesome-rl) ⭐ 9,981 | 🐛 7 | 📅 2023-05-25, [RL](https://github.com/jgvictores/awesome-deep-reinforcement-learning) ⭐ 207 | 🐛 2 | 📅 2026-08-25, [Multiagent RL](https://github.com/chuangyc/awesome-multiagent-learning) ⭐ 79 | 🐛 0 | 📅 2019-08-15
+*\[6] Reinforcement Learning*: [RL](https://github.com/aikorea/awesome-rl) ⭐ 9,982 | 🐛 7 | 📅 2023-05-25, [RL](https://github.com/jgvictores/awesome-deep-reinforcement-learning) ⭐ 207 | 🐛 2 | 📅 2026-08-25, [Multiagent RL](https://github.com/chuangyc/awesome-multiagent-learning) ⭐ 79 | 🐛 0 | 📅 2019-08-15
 
 *\[7] Transfer Learning*: [Transfer Learning](https://github.com/artix41/awesome-transfer-learning) ⭐ 1,777 | 🐛 8 | 📅 2023-08-25, [Zero Shot](https://github.com/chichilicious/awesome-zero-shot-learning) ⭐ 938 | 🐛 7 | 📅 2021-07-28, [Meta Learning](https://github.com/dragen1860/awesome-meta-learning) ⭐ 552 | 🐛 2 | 📅 2020-12-21
 
@@ -56,7 +56,7 @@
 
 *\[16] Denoising*: [Image Denoising](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art) ⭐ 2,518 | 🐛 4 | 📅 2021-12-05
 
-*\[17] Anomaly Detection*: [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,395 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+*\[17] Anomaly Detection*: [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,396 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 
 *\[18] Interpretability*: [Interpretability](https://github.com/oneTaken/awesome_deep_learning_interpretability) ⭐ 767 | 🐛 2 | 📅 2024-04-08
 
@@ -64,7 +64,7 @@
 
 *\[20] OCR*: [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md) ⚠️ Archived, [awesome-ocr](https://github.com/ChanChiChoi/awesome-ocr) ⭐ 401 | 🐛 1 | 📅 2022-10-21
 
-*\[21] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) ⭐ 3,588 | 🐛 3 | 📅 2025-01-07, [BERT](https://github.com/tomohideshibata/BERT-related-papers) ⭐ 2,031 | 🐛 0 | 📅 2023-08-12, [Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) ⭐ 1,344 | 🐛 0 | 📅 2023-08-22
+*\[21] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) ⭐ 3,588 | 🐛 3 | 📅 2025-01-07, [BERT](https://github.com/tomohideshibata/BERT-related-papers) ⭐ 2,032 | 🐛 0 | 📅 2023-08-12, [Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) ⭐ 1,345 | 🐛 0 | 📅 2023-08-22
 
 *\[22] MLP is all you need*: [awesome-mlp-papers](https://github.com/haofanwang/awesome-mlp-papers/) ⭐ 117 | 🐛 0 | 📅 2022-12-13
 
@@ -86,4 +86,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
