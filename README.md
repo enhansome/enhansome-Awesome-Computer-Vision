@@ -10,15 +10,15 @@
 
 *\[2] 3D-Human-Reconstruction*: [awesome-3d-human-reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction) ⭐ 948 | 🐛 0 | 📅 2024-07-11
 
-*\[3] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,185 | 🐛 6 | 📅 2026-09-11
+*\[3] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,186 | 🐛 6 | 📅 2026-09-27
 
 *\[4] Talking Face*: [awesome\_talking\_face\_generation](https://github.com/YunjinPark/awesome_talking_face_generation) ⭐ 837 | 🐛 1 | 📅 2025-11-19
 
 *\[5] Sketch Generation*: [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) ⭐ 581 | 🐛 1 | 📅 2026-09-21
 
-*\[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ⭐ 12,373 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
+*\[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ⭐ 12,372 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
 
-*\[7] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) ⭐ 6,773 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
+*\[7] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) ⭐ 6,775 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 
 *\[8] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP) ⭐ 1,228 | 🐛 15 | 📅 2024-06-28
 
@@ -34,11 +34,11 @@
 
 *\[5] AutoML*: [AutoML](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,159 | 🐛 2 | 📅 2024-06-11, [Network Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04, [Network Compression](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 3 | 📅 2021-06-19, [NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26
 
-*\[6] Reinforcement Learning*: [RL](https://github.com/aikorea/awesome-rl) ⭐ 9,982 | 🐛 7 | 📅 2023-05-25, [RL](https://github.com/jgvictores/awesome-deep-reinforcement-learning) ⭐ 207 | 🐛 2 | 📅 2026-08-25, [Multiagent RL](https://github.com/chuangyc/awesome-multiagent-learning) ⭐ 79 | 🐛 0 | 📅 2019-08-15
+*\[6] Reinforcement Learning*: [RL](https://github.com/aikorea/awesome-rl) ⭐ 9,988 | 🐛 7 | 📅 2023-05-25, [RL](https://github.com/jgvictores/awesome-deep-reinforcement-learning) ⭐ 207 | 🐛 2 | 📅 2026-08-25, [Multiagent RL](https://github.com/chuangyc/awesome-multiagent-learning) ⭐ 79 | 🐛 0 | 📅 2019-08-15
 
 *\[7] Transfer Learning*: [Transfer Learning](https://github.com/artix41/awesome-transfer-learning) ⭐ 1,777 | 🐛 8 | 📅 2023-08-25, [Zero Shot](https://github.com/chichilicious/awesome-zero-shot-learning) ⭐ 938 | 🐛 7 | 📅 2021-07-28, [Meta Learning](https://github.com/dragen1860/awesome-meta-learning) ⭐ 552 | 🐛 2 | 📅 2020-12-21
 
-*\[8] GAN*: [GAN](https://github.com/nightrome/really-awesome-gan) ⭐ 3,774 | 🐛 1 | 📅 2025-08-24, [GAN Applications](https://github.com/nashory/gans-awesome-applications) ⭐ 5,106 | 🐛 20 | 📅 2026-06-08
+*\[8] GAN*: [GAN](https://github.com/nightrome/really-awesome-gan) ⭐ 3,773 | 🐛 1 | 📅 2025-08-24, [GAN Applications](https://github.com/nashory/gans-awesome-applications) ⭐ 5,106 | 🐛 20 | 📅 2026-06-08
 
 *\[9] Object Detection*: [Detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,382 | 🐛 5 | 🌐 Python | 📅 2024-02-12, [Detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,507 | 🐛 7 | 📅 2022-12-17
 
@@ -52,11 +52,11 @@
 
 *\[14] Vision-Language Navigation*: [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln) ⚠️ Archived, [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,429 | 🐛 2 | 📅 2026-02-24
 
-*\[15] Super Resolution*: [Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,098 | 🐛 5 | 📅 2026-08-19
+*\[15] Super Resolution*: [Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,098 | 🐛 6 | 📅 2026-08-19
 
 *\[16] Denoising*: [Image Denoising](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art) ⭐ 2,518 | 🐛 4 | 📅 2021-12-05
 
-*\[17] Anomaly Detection*: [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,396 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+*\[17] Anomaly Detection*: [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,395 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 
 *\[18] Interpretability*: [Interpretability](https://github.com/oneTaken/awesome_deep_learning_interpretability) ⭐ 767 | 🐛 2 | 📅 2024-04-08
 
@@ -64,19 +64,19 @@
 
 *\[20] OCR*: [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md) ⚠️ Archived, [awesome-ocr](https://github.com/ChanChiChoi/awesome-ocr) ⭐ 401 | 🐛 1 | 📅 2022-10-21
 
-*\[21] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) ⭐ 3,588 | 🐛 3 | 📅 2025-01-07, [BERT](https://github.com/tomohideshibata/BERT-related-papers) ⭐ 2,032 | 🐛 0 | 📅 2023-08-12, [Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) ⭐ 1,345 | 🐛 0 | 📅 2023-08-22
+*\[21] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) ⭐ 3,587 | 🐛 3 | 📅 2025-01-07, [BERT](https://github.com/tomohideshibata/BERT-related-papers) ⭐ 2,032 | 🐛 0 | 📅 2023-08-12, [Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) ⭐ 1,345 | 🐛 0 | 📅 2023-08-22
 
 *\[22] MLP is all you need*: [awesome-mlp-papers](https://github.com/haofanwang/awesome-mlp-papers/) ⭐ 117 | 🐛 0 | 📅 2022-12-13
 
-*\[23] Vision Language Pre-training*: [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) ⭐ 5,593 | 🐛 6 | 🌐 Python | 📅 2026-08-30, [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers) ⭐ 1,160 | 🐛 9 | 📅 2022-08-19, [awesome-programming-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers) ⭐ 60 | 🐛 0 | 📅 2021-12-17, [PyContrast](https://github.com/HobbitLong/PyContrast) ⭐ 1,992 | 🐛 14 | 🌐 Python | 📅 2023-10-04, [contrastive\_learning\_codes](https://github.com/leerumor/contrastive_learning_codes) ⭐ 239 | 🐛 0 | 📅 2020-12-21
+*\[23] Vision Language Pre-training*: [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) ⭐ 5,591 | 🐛 6 | 🌐 Python | 📅 2026-08-30, [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers) ⭐ 1,160 | 🐛 9 | 📅 2022-08-19, [awesome-programming-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers) ⭐ 60 | 🐛 0 | 📅 2021-12-17, [PyContrast](https://github.com/HobbitLong/PyContrast) ⭐ 1,992 | 🐛 14 | 🌐 Python | 📅 2023-10-04, [contrastive\_learning\_codes](https://github.com/leerumor/contrastive_learning_codes) ⭐ 239 | 🐛 0 | 📅 2020-12-21
 
 *\[24] Prompt*: [PromptPapers](https://github.com/thunlp/PromptPapers) ⭐ 4,326 | 🐛 6 | 📅 2023-07-17
 
 *\[25] MIM*: [Masked Image Modeling](https://github.com/ucasligang/awesome-MIM) ⭐ 333 | 🐛 0 | 📅 2024-12-03
 
-*\[21] Crowd Counting*: [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting) ⭐ 2,613 | 🐛 17 | 📅 2026-01-24
+*\[21] Crowd Counting*: [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting) ⭐ 2,614 | 🐛 17 | 📅 2026-01-24
 
-*\[22] Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) ⭐ 588 | 🐛 1 | 📅 2022-09-22, [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,492 | 🐛 4 | 📅 2026-08-29, [Person ReID](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,363 | 🐛 2 | 📅 2024-06-18, [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid) ⭐ 316 | 🐛 1 | 📅 2025-04-21
+*\[22] Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) ⭐ 588 | 🐛 1 | 📅 2022-09-22, [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) ⭐ 1,493 | 🐛 4 | 📅 2026-08-29, [Person ReID](https://github.com/bismex/Awesome-person-re-identification) ⭐ 1,363 | 🐛 2 | 📅 2024-06-18, [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid) ⭐ 316 | 🐛 1 | 📅 2025-04-21
 
 *\[23] Visual Reasoning*: [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering) ⭐ 674 | 🐛 4 | 📅 2023-07-06
 
@@ -86,4 +86,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
