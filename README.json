@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "diff-usion",
             "repo": "Awesome-Diffusion-Models",
-            "stars": 12375,
+            "stars": 12374,
             "topics": [
               "artificial-intelligence",
               "diffusion-models",
@@ -257,7 +257,7 @@
             "open_issues": 6,
             "owner": "thunlp",
             "repo": "PromptPapers",
-            "stars": 4327,
+            "stars": 4328,
             "topics": [
               "ai",
               "bert",
@@ -298,7 +298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:25:43.639Z",
+    "last_updated": "2026-10-01T17:03:09.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Resources for Advanced Computer Vision Topics",
