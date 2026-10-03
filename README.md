@@ -10,13 +10,13 @@
 
 *\[2] 3D-Human-Reconstruction*: [awesome-3d-human-reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction) ⭐ 948 | 🐛 0 | 📅 2024-07-11
 
-*\[3] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,191 | 🐛 6 | 📅 2026-09-27
+*\[3] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,192 | 🐛 6 | 📅 2026-09-27
 
 *\[4] Talking Face*: [awesome\_talking\_face\_generation](https://github.com/YunjinPark/awesome_talking_face_generation) ⭐ 836 | 🐛 1 | 📅 2025-11-19
 
 *\[5] Sketch Generation*: [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) ⭐ 581 | 🐛 1 | 📅 2026-09-21
 
-*\[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ⭐ 12,375 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
+*\[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ⭐ 12,377 | 🐛 28 | 🌐 HTML | 📅 2024-08-01
 
 *\[7] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) ⭐ 6,777 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 
@@ -52,7 +52,7 @@
 
 *\[14] Vision-Language Navigation*: [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln) ⚠️ Archived, [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,430 | 🐛 2 | 📅 2026-02-24
 
-*\[15] Super Resolution*: [Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,098 | 🐛 6 | 📅 2026-08-19
+*\[15] Super Resolution*: [Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,099 | 🐛 6 | 📅 2026-08-19
 
 *\[16] Denoising*: [Image Denoising](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art) ⭐ 2,516 | 🐛 4 | 📅 2021-12-05
 
