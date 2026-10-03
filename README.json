@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "[6] Diffusion: Awesome-Diffusion-Models",
-          "description": null,
+          "description": "diff-usion/Awesome-Diffusion-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "[7] NeRF: awesome-NeRF",
-          "description": null,
+          "description": "awesome-NeRF/awesome-NeRF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776,
+            "stars": 6777,
             "topics": [
               "nerf"
             ]
@@ -57,7 +57,7 @@
         {
           "node_type": "item",
           "title": "[8] CLIP: Awesome-CLIP",
-          "description": null,
+          "description": "yzhuoning/Awesome-CLIP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,7 +170,7 @@
         {
           "node_type": "item",
           "title": "[16] Denoising: Image Denoising",
-          "description": null,
+          "description": "wenbihan/reproducible-image-denoising-state-of-the-art",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "[24] Prompt: PromptPapers",
-          "description": null,
+          "description": "thunlp/PromptPapers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,7 +275,7 @@
         {
           "node_type": "item",
           "title": "[25] MIM: Masked Image Modeling",
-          "description": null,
+          "description": "ucasligang/awesome-MIM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -298,7 +298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:17:16.606Z",
+    "last_updated": "2026-10-03T04:16:52.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Resources for Advanced Computer Vision Topics",
