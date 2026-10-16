@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "diff-usion",
             "repo": "Awesome-Diffusion-Models",
-            "stars": 12378,
+            "stars": 12379,
             "topics": [
               "artificial-intelligence",
               "diffusion-models",
@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6774,
+            "stars": 6773,
             "topics": [
               "nerf"
             ]
@@ -70,7 +70,7 @@
             "open_issues": 15,
             "owner": "yzhuoning",
             "repo": "Awesome-CLIP",
-            "stars": 1231,
+            "stars": 1230,
             "topics": [
               "clip",
               "contrastive-learning",
@@ -101,7 +101,7 @@
             "open_issues": 3,
             "owner": "Yochengliu",
             "repo": "awesome-point-cloud-analysis",
-            "stars": 4227,
+            "stars": 4228,
             "topics": [
               "3d-graphics",
               "3d-reconstruction",
@@ -298,7 +298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:05:38.789Z",
+    "last_updated": "2026-10-16T14:54:09.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Resources for Advanced Computer Vision Topics",
