@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6770,
+            "stars": 6771,
             "topics": [
               "nerf"
             ]
@@ -257,7 +257,7 @@
             "open_issues": 6,
             "owner": "thunlp",
             "repo": "PromptPapers",
-            "stars": 4328,
+            "stars": 4327,
             "topics": [
               "ai",
               "bert",
@@ -298,7 +298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:41:28.292Z",
+    "last_updated": "2026-10-29T16:57:28.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Resources for Advanced Computer Vision Topics",
