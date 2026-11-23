@@ -26,11 +26,11 @@
 
 *\[1] Graph Neural Network*: [GNN](https://github.com/thunlp/GNNPapers) ⭐ 16,848 | 🐛 15 | 📅 2023-12-20, [GNN](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) ⭐ 2,313 | 🐛 7 | 📅 2023-12-29, [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,805 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [Adversarial GNN](https://github.com/safe-graph/graph-adversarial-learning-literature) ⭐ 864 | 🐛 0 | 📅 2023-12-15, [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn) ⭐ 295 | 🐛 0 | 📅 2023-03-29
 
-*\[2] Video Analysis*: [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,047 | 🐛 6 | 📅 2023-05-13, [Temporal Action Detection](https://github.com/Rheelt/Materials-Temporal-Action-Detection) ⭐ 202 | 🐛 4 | 📅 2021-01-10, [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) ⭐ 589 | 🐛 2 | 📅 2022-09-22
+*\[2] Video Analysis*: [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,048 | 🐛 6 | 📅 2023-05-13, [Temporal Action Detection](https://github.com/Rheelt/Materials-Temporal-Action-Detection) ⭐ 202 | 🐛 4 | 📅 2021-01-10, [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) ⭐ 589 | 🐛 2 | 📅 2022-09-22
 
 *\[3] Adversarial Attack*: [Adversarial Attack](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html), [Adversarial Learning](https://github.com/nebula-beta/awesome-adversarial-deep-learning) ⭐ 132 | 🐛 2 | 📅 2023-01-07, [Robust ML](https://github.com/P2333/Papers-of-Robust-ML) ⭐ 562 | 🐛 0 | 📅 2023-05-25, [Graph Attack](https://github.com/ChandlerBang/awesome-graph-attack-papers) ⭐ 396 | 🐛 3 | 📅 2024-02-22
 
-*\[4] 3D Vision*: [Point Cloud](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,232 | 🐛 3 | 📅 2023-05-19, [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,443 | 🐛 6 | 📅 2021-10-12
+*\[4] 3D Vision*: [Point Cloud](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,232 | 🐛 3 | 📅 2023-05-19, [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,444 | 🐛 6 | 📅 2021-10-12
 
 *\[5] AutoML*: [AutoML](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,165 | 🐛 2 | 📅 2024-06-11, [Network Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,496 | 🐛 16 | 📅 2024-04-04, [Network Compression](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 4 | 📅 2021-06-19, [NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,354 | 🐛 2 | 🌐 Python | 📅 2022-09-26
 
@@ -40,23 +40,23 @@
 
 *\[8] GAN*: [GAN](https://github.com/nightrome/really-awesome-gan) ⭐ 3,770 | 🐛 1 | 📅 2025-08-24, [GAN Applications](https://github.com/nashory/gans-awesome-applications) ⭐ 5,104 | 🐛 20 | 📅 2026-06-08
 
-*\[9] Object Detection*: [Detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,381 | 🐛 5 | 🌐 Python | 📅 2024-02-12, [Detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,519 | 🐛 7 | 📅 2022-12-17
+*\[9] Object Detection*: [Detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,381 | 🐛 5 | 🌐 Python | 📅 2024-02-12, [Detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,520 | 🐛 7 | 📅 2022-12-17
 
 *\[10] Object Tracking*: [Multiple Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-listn), [Tracking](https://github.com/foolwood/benchmark_results) ⭐ 3,942 | 🐛 17 | 📅 2020-07-20
 
 *\[11] Pose Estimation*: [Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation) ⭐ 1,378 | 🐛 6 | 📅 2020-08-07, [Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) ⭐ 3,421 | 🐛 7 | 🌐 Python | 📅 2026-06-28
 
-*\[12] Segmentation*: [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,851 | 🐛 17 | 📅 2021-05-08
+*\[12] Segmentation*: [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) ⭐ 10,852 | 🐛 17 | 📅 2021-05-08
 
 *\[13] Classification*: [Image Classification](https://github.com/weiaicunzai/awesome-image-classification) ⭐ 3,073 | 🐛 2 | 📅 2022-04-20
 
 *\[14] Vision-Language Navigation*: [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln) ⚠️ Archived, [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,448 | 🐛 3 | 📅 2026-02-24
 
-*\[15] Super Resolution*: [Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,099 | 🐛 7 | 📅 2026-08-19
+*\[15] Super Resolution*: [Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution) ⭐ 3,100 | 🐛 7 | 📅 2026-08-19
 
 *\[16] Denoising*: [Image Denoising](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art) ⭐ 2,516 | 🐛 4 | 📅 2021-12-05
 
-*\[17] Anomaly Detection*: [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,459 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+*\[17] Anomaly Detection*: [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,460 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 
 *\[18] Interpretability*: [Interpretability](https://github.com/oneTaken/awesome_deep_learning_interpretability) ⭐ 768 | 🐛 2 | 📅 2024-04-08
 
@@ -86,4 +86,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
