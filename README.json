@@ -19,7 +19,7 @@
             "open_issues": 32,
             "owner": "diff-usion",
             "repo": "Awesome-Diffusion-Models",
-            "stars": 12384,
+            "stars": 12386,
             "topics": [
               "artificial-intelligence",
               "diffusion-models",
@@ -136,7 +136,7 @@
             "open_issues": 2,
             "owner": "hibayesian",
             "repo": "awesome-automl-papers",
-            "stars": 4165,
+            "stars": 4166,
             "topics": [
               "automated-feature-engineering",
               "automl",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "whitelok",
             "repo": "image-text-localization-recognition",
-            "stars": 959,
+            "stars": 958,
             "topics": [
               "awesome",
               "convolutional-neural-networks",
@@ -298,7 +298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:41:23.850Z",
+    "last_updated": "2026-11-25T19:57:45.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Resources for Advanced Computer Vision Topics",

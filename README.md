@@ -6,17 +6,17 @@
 
 ## Hot Topics
 
-*\[1] Motion Prediction*: [awesome-3d-human-motion-prediction](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md) ⭐ 349 | 🐛 0 | 🌐 TeX | 📅 2025-02-09
+*\[1] Motion Prediction*: [awesome-3d-human-motion-prediction](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md) ⭐ 348 | 🐛 0 | 🌐 TeX | 📅 2025-02-09
 
 *\[2] 3D-Human-Reconstruction*: [awesome-3d-human-reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction) ⭐ 947 | 🐛 0 | 📅 2024-07-11
 
-*\[3] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,231 | 🐛 6 | 📅 2026-11-24
+*\[3] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,233 | 🐛 6 | 📅 2026-11-24
 
-*\[4] Talking Face*: [awesome\_talking\_face\_generation](https://github.com/YunjinPark/awesome_talking_face_generation) ⭐ 836 | 🐛 2 | 📅 2025-11-19
+*\[4] Talking Face*: [awesome\_talking\_face\_generation](https://github.com/YunjinPark/awesome_talking_face_generation) ⭐ 835 | 🐛 2 | 📅 2025-11-19
 
 *\[5] Sketch Generation*: [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) ⭐ 584 | 🐛 1 | 📅 2026-11-18
 
-*\[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ⭐ 12,384 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
+*\[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) ⭐ 12,386 | 🐛 32 | 🌐 HTML | 📅 2024-08-01
 
 *\[7] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) ⭐ 6,775 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 
@@ -24,7 +24,7 @@
 
 ## Awesome Computer Vision
 
-*\[1] Graph Neural Network*: [GNN](https://github.com/thunlp/GNNPapers) ⭐ 16,848 | 🐛 15 | 📅 2023-12-20, [GNN](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) ⭐ 2,313 | 🐛 7 | 📅 2023-12-29, [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,805 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [Adversarial GNN](https://github.com/safe-graph/graph-adversarial-learning-literature) ⭐ 865 | 🐛 0 | 📅 2023-12-15, [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn) ⭐ 295 | 🐛 0 | 📅 2023-03-29
+*\[1] Graph Neural Network*: [GNN](https://github.com/thunlp/GNNPapers) ⭐ 16,849 | 🐛 15 | 📅 2023-12-20, [GNN](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) ⭐ 2,313 | 🐛 7 | 📅 2023-12-29, [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,805 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [Adversarial GNN](https://github.com/safe-graph/graph-adversarial-learning-literature) ⭐ 865 | 🐛 0 | 📅 2023-12-15, [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn) ⭐ 295 | 🐛 0 | 📅 2023-03-29
 
 *\[2] Video Analysis*: [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,048 | 🐛 6 | 📅 2023-05-13, [Temporal Action Detection](https://github.com/Rheelt/Materials-Temporal-Action-Detection) ⭐ 202 | 🐛 4 | 📅 2021-01-10, [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) ⭐ 590 | 🐛 2 | 📅 2022-09-22
 
@@ -32,15 +32,15 @@
 
 *\[4] 3D Vision*: [Point Cloud](https://github.com/Yochengliu/awesome-point-cloud-analysis) ⭐ 4,233 | 🐛 3 | 📅 2023-05-19, [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,444 | 🐛 6 | 📅 2021-10-12
 
-*\[5] AutoML*: [AutoML](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,165 | 🐛 2 | 📅 2024-06-11, [Network Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,496 | 🐛 16 | 📅 2024-04-04, [Network Compression](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 4 | 📅 2021-06-19, [NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,354 | 🐛 2 | 🌐 Python | 📅 2022-09-26
+*\[5] AutoML*: [AutoML](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,166 | 🐛 2 | 📅 2024-06-11, [Network Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,496 | 🐛 16 | 📅 2024-04-04, [Network Compression](https://github.com/sun254/awesome-model-compression-and-acceleration) ⭐ 348 | 🐛 4 | 📅 2021-06-19, [NAS](https://github.com/D-X-Y/Awesome-NAS) ⭐ 2,353 | 🐛 2 | 🌐 Python | 📅 2022-09-26
 
-*\[6] Reinforcement Learning*: [RL](https://github.com/aikorea/awesome-rl) ⭐ 10,053 | 🐛 7 | 📅 2023-05-25, [RL](https://github.com/jgvictores/awesome-deep-reinforcement-learning) ⭐ 208 | 🐛 3 | 📅 2026-11-17, [Multiagent RL](https://github.com/chuangyc/awesome-multiagent-learning) ⭐ 78 | 🐛 0 | 📅 2019-08-15
+*\[6] Reinforcement Learning*: [RL](https://github.com/aikorea/awesome-rl) ⭐ 10,054 | 🐛 7 | 📅 2023-05-25, [RL](https://github.com/jgvictores/awesome-deep-reinforcement-learning) ⭐ 208 | 🐛 3 | 📅 2026-11-17, [Multiagent RL](https://github.com/chuangyc/awesome-multiagent-learning) ⭐ 78 | 🐛 0 | 📅 2019-08-15
 
 *\[7] Transfer Learning*: [Transfer Learning](https://github.com/artix41/awesome-transfer-learning) ⭐ 1,772 | 🐛 9 | 📅 2023-08-25, [Zero Shot](https://github.com/chichilicious/awesome-zero-shot-learning) ⭐ 936 | 🐛 8 | 📅 2021-07-28, [Meta Learning](https://github.com/dragen1860/awesome-meta-learning) ⭐ 553 | 🐛 2 | 📅 2020-12-21
 
-*\[8] GAN*: [GAN](https://github.com/nightrome/really-awesome-gan) ⭐ 3,770 | 🐛 1 | 📅 2025-08-24, [GAN Applications](https://github.com/nashory/gans-awesome-applications) ⭐ 5,105 | 🐛 20 | 📅 2026-06-08
+*\[8] GAN*: [GAN](https://github.com/nightrome/really-awesome-gan) ⭐ 3,770 | 🐛 1 | 📅 2025-08-24, [GAN Applications](https://github.com/nashory/gans-awesome-applications) ⭐ 5,106 | 🐛 20 | 📅 2026-06-08
 
-*\[9] Object Detection*: [Detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,381 | 🐛 5 | 🌐 Python | 📅 2024-02-12, [Detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,520 | 🐛 7 | 📅 2022-12-17
+*\[9] Object Detection*: [Detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,382 | 🐛 5 | 🌐 Python | 📅 2024-02-12, [Detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,520 | 🐛 7 | 📅 2022-12-17
 
 *\[10] Object Tracking*: [Multiple Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-listn), [Tracking](https://github.com/foolwood/benchmark_results) ⭐ 3,942 | 🐛 17 | 📅 2020-07-20
 
@@ -86,4 +86,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
